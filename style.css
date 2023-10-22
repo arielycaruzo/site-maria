@@ -1,0 +1,20 @@
+body {
+    background:#92b8c4
+}
+
+.principal {
+    padding: 30px;
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+}
